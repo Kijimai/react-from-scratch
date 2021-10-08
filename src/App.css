@@ -1,0 +1,20 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: inherit;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.App {
+  margin: 1rem;
+  color: #222222;
+}
+
+/*# sourceMappingURL=App.css.map */
